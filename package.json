@@ -2,24 +2,24 @@
     "name": "quantum-lab-dark",
     "icon": "icon.png",
     "publisher": "SimonKassab",
-	"repository": {
-		"type": "git",
-		"url": "https://github.com/simkass/quantum-lab-dark"
-	},
-	"keywords":[
-		"Theme", 
-		"IBM",
-		"Quantum",
-		"Lab",
-		"Dark",
-		"Minimal",
-		"Modern",
-		"Pink", 
-		"Blue"
-	],
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/simkass/quantum-lab-dark"
+    },
+    "keywords": [
+        "Theme",
+        "IBM",
+        "Quantum",
+        "Lab",
+        "Dark",
+        "Minimal",
+        "Modern",
+        "Pink",
+        "Blue"
+    ],
     "displayName": "Quantum Lab Dark",
     "description": "Dark theme based on the IBM Quantum Lab theme",
-    "version": "0.0.1",
+    "version": "0.1.0",
     "engines": {
         "vscode": "^1.61.0"
     },
