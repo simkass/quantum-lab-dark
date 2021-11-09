@@ -1,5 +1,6 @@
 {
     "name": "quantum-lab-dark",
+    "icon": "icon.png",
     "publisher": "SimonKassab",
 	"repository": {
 		"type": "git",
