@@ -1,0 +1,21 @@
+{
+    "name": "quantum-lab-dark",
+    "displayName": "Quantum Lab Dark",
+    "description": "Dark theme based on the IBM Quantum Lab theme",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.61.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Quantum Lab Dark",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Quantum Lab Dark-color-theme.json"
+            }
+        ]
+    }
+}
