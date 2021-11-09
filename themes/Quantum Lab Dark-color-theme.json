@@ -1,21 +1,5 @@
 {
 	"name": "Quantum Lab Dark",
-	"publisher": "SimonKassab",
-	"repository": {
-		"type": "git",
-		"url": "https://github.com/simkass/quantum-lab-dark"
-	},
-	"keywords":[
-		"Theme", 
-		"IBM",
-		"Quantum",
-		"Lab",
-		"Dark",
-		"Minimal",
-		"Modern",
-		"Pink", 
-		"Blue"
-	],
 	"type": "dark",
 	"semanticHighlighting": true,
 	"semanticTokenColors": {
