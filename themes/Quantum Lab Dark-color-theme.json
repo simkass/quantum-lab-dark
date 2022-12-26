@@ -1968,7 +1968,7 @@
 	  "editorGutter.foldingControlForeground": "#5c5c5c",
 	  "editorCodeLens.foreground": "#2ec27c",
 	  "editorGroup.border": "#262626",
-	  "diffEditor.insertedTextBackground": "#2ec27c33",
+	  "diffEditor.insertedTextBackground": "#2ec26c59",
 	  "diffEditor.insertedTextBorder": "#ffffff00",
 	  "diffEditor.removedTextBackground": "#fa4d5633",
 	  "diffEditor.border": "#262626",
@@ -2102,6 +2102,9 @@
 	  "breadcrumb.activeSelectionForeground": "#d6d6d6",
 	  "editorGutter.commentRangeForeground": "#5c5c5c",
 	  "debugExceptionWidget.background": "#262626",
-	  "debugExceptionWidget.border": "#262626"
+	  "debugExceptionWidget.border": "#262626",
+	  "notebook.cellEditorBackground": "#262626",
+	  "notebook.cellBorderColor": "#00000000",
+	  "notebook.focusedCellBorder": "#393939"
 	}
   }
