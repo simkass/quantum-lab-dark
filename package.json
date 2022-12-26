@@ -19,7 +19,7 @@
     ],
     "displayName": "Quantum Lab Dark",
     "description": "Dark theme based on the IBM Quantum Lab theme",
-    "version": "0.1.0",
+    "version": "1.0.0",
     "engines": {
         "vscode": "^1.61.0"
     },
